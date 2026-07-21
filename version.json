@@ -1,8 +1,11 @@
 {
-  "databaseVersion": "2026.07.21.2245",
+  "databaseVersion": "2026.07.21.2305",
   "downloadUrl": "https://raw.githubusercontent.com/luizgust79/TACFacil/main/pedagios_database.json",
-  "generatedAt": "2026-07-21T22:45:53.739653Z",
+  "fileSizeBytes": 413445,
+  "generatedAt": "2026-07-21T23:05:50.154925Z",
+  "publishedAt": "2026-07-21T23:06:15.476622Z[GMT]",
   "schemaVersion": 1,
+  "sha256": "4f8f00a50e822fc01ef58726a53ce15ec783fc7a1cee79927a14109cac220354",
   "statistics": {
     "matchedTariffs": 529,
     "states": [
