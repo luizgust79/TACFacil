@@ -7076,8 +7076,8 @@
       "validTo": "2026-11-22"
     }
   ],
-  "databaseVersion": "2026.07.21.2245",
-  "generatedAt": "2026-07-21T22:45:53.739653Z",
+  "databaseVersion": "2026.07.21.2305",
+  "generatedAt": "2026-07-21T23:05:50.154925Z",
   "plazas": [
     {
       "active": true,
@@ -7093,7 +7093,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.651949Z",
+        "collectedAt": "2026-07-21T23:05:51.636141Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7112,7 +7112,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.664024Z",
+        "collectedAt": "2026-07-21T23:05:51.646132Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7131,7 +7131,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.677311Z",
+        "collectedAt": "2026-07-21T23:05:51.655915Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7150,7 +7150,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.689891Z",
+        "collectedAt": "2026-07-21T23:05:51.665341Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7169,7 +7169,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.704249Z",
+        "collectedAt": "2026-07-21T23:05:51.675263Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7188,7 +7188,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.734836Z",
+        "collectedAt": "2026-07-21T23:05:51.685466Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -7207,7 +7207,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.754155Z",
+        "collectedAt": "2026-07-21T23:05:51.704819Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7226,7 +7226,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.764847Z",
+        "collectedAt": "2026-07-21T23:05:51.720211Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7245,7 +7245,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.776609Z",
+        "collectedAt": "2026-07-21T23:05:51.729666Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7264,7 +7264,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.787630Z",
+        "collectedAt": "2026-07-21T23:05:51.738440Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7283,7 +7283,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.799768Z",
+        "collectedAt": "2026-07-21T23:05:51.748078Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7302,7 +7302,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.811162Z",
+        "collectedAt": "2026-07-21T23:05:51.758583Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7321,7 +7321,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.822837Z",
+        "collectedAt": "2026-07-21T23:05:51.768554Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -7340,7 +7340,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.849133Z",
+        "collectedAt": "2026-07-21T23:05:51.779605Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -7359,7 +7359,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.866438Z",
+        "collectedAt": "2026-07-21T23:05:51.792009Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -7378,7 +7378,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.876134Z",
+        "collectedAt": "2026-07-21T23:05:51.816978Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -7397,7 +7397,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.885682Z",
+        "collectedAt": "2026-07-21T23:05:51.825991Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -7416,7 +7416,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.896050Z",
+        "collectedAt": "2026-07-21T23:05:51.835005Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -7435,7 +7435,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.907406Z",
+        "collectedAt": "2026-07-21T23:05:51.844676Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -7454,7 +7454,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.918726Z",
+        "collectedAt": "2026-07-21T23:05:51.855293Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -7473,7 +7473,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.931925Z",
+        "collectedAt": "2026-07-21T23:05:51.864096Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -7492,7 +7492,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.950568Z",
+        "collectedAt": "2026-07-21T23:05:51.877604Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -7511,7 +7511,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.964604Z",
+        "collectedAt": "2026-07-21T23:05:51.887702Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -7530,7 +7530,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.974006Z",
+        "collectedAt": "2026-07-21T23:05:51.909670Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7549,7 +7549,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.985333Z",
+        "collectedAt": "2026-07-21T23:05:51.921507Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -7568,7 +7568,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:54.996656Z",
+        "collectedAt": "2026-07-21T23:05:51.931412Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -7587,7 +7587,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.006487Z",
+        "collectedAt": "2026-07-21T23:05:51.941305Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7606,7 +7606,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.016199Z",
+        "collectedAt": "2026-07-21T23:05:51.951017Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7625,7 +7625,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.026764Z",
+        "collectedAt": "2026-07-21T23:05:51.961218Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7644,7 +7644,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.050140Z",
+        "collectedAt": "2026-07-21T23:05:51.971813Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7663,7 +7663,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.066033Z",
+        "collectedAt": "2026-07-21T23:05:51.983671Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7682,7 +7682,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.076680Z",
+        "collectedAt": "2026-07-21T23:05:52.002519Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7701,7 +7701,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.086700Z",
+        "collectedAt": "2026-07-21T23:05:52.017966Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7720,7 +7720,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.098019Z",
+        "collectedAt": "2026-07-21T23:05:52.027618Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7739,7 +7739,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.108273Z",
+        "collectedAt": "2026-07-21T23:05:52.036940Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -7758,7 +7758,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.118328Z",
+        "collectedAt": "2026-07-21T23:05:52.045958Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -7777,7 +7777,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.128633Z",
+        "collectedAt": "2026-07-21T23:05:52.056252Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -7796,7 +7796,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.141845Z",
+        "collectedAt": "2026-07-21T23:05:52.066921Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -7815,7 +7815,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.167657Z",
+        "collectedAt": "2026-07-21T23:05:52.077540Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -7834,7 +7834,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.185844Z",
+        "collectedAt": "2026-07-21T23:05:52.088803Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -7853,7 +7853,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.196558Z",
+        "collectedAt": "2026-07-21T23:05:52.108541Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -7872,7 +7872,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.207079Z",
+        "collectedAt": "2026-07-21T23:05:52.121463Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -7891,7 +7891,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.218632Z",
+        "collectedAt": "2026-07-21T23:05:52.132128Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -7910,7 +7910,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.230914Z",
+        "collectedAt": "2026-07-21T23:05:52.143533Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -7929,7 +7929,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.243139Z",
+        "collectedAt": "2026-07-21T23:05:52.153709Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -7948,7 +7948,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.256558Z",
+        "collectedAt": "2026-07-21T23:05:52.162723Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -7967,7 +7967,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.275089Z",
+        "collectedAt": "2026-07-21T23:05:52.171106Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -7986,7 +7986,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.290310Z",
+        "collectedAt": "2026-07-21T23:05:52.179887Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -8005,7 +8005,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.302109Z",
+        "collectedAt": "2026-07-21T23:05:52.193829Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -8024,7 +8024,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.314064Z",
+        "collectedAt": "2026-07-21T23:05:52.219675Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -8043,7 +8043,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.325257Z",
+        "collectedAt": "2026-07-21T23:05:52.228381Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -8062,7 +8062,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.335283Z",
+        "collectedAt": "2026-07-21T23:05:52.237617Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "ES"
@@ -8081,7 +8081,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.351081Z",
+        "collectedAt": "2026-07-21T23:05:52.246554Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "TO"
@@ -8100,7 +8100,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.363741Z",
+        "collectedAt": "2026-07-21T23:05:52.255565Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "TO"
@@ -8119,7 +8119,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.379412Z",
+        "collectedAt": "2026-07-21T23:05:52.264607Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8138,7 +8138,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.400945Z",
+        "collectedAt": "2026-07-21T23:05:52.273954Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8157,7 +8157,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.411023Z",
+        "collectedAt": "2026-07-21T23:05:52.284413Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8176,7 +8176,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.420663Z",
+        "collectedAt": "2026-07-21T23:05:52.303253Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8195,7 +8195,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.431063Z",
+        "collectedAt": "2026-07-21T23:05:52.318007Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8214,7 +8214,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.445445Z",
+        "collectedAt": "2026-07-21T23:05:52.326981Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8233,7 +8233,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.460017Z",
+        "collectedAt": "2026-07-21T23:05:52.335821Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8252,7 +8252,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.471081Z",
+        "collectedAt": "2026-07-21T23:05:52.345372Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8271,7 +8271,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.483804Z",
+        "collectedAt": "2026-07-21T23:05:52.354382Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -8290,7 +8290,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.505409Z",
+        "collectedAt": "2026-07-21T23:05:52.364527Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8309,7 +8309,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.520008Z",
+        "collectedAt": "2026-07-21T23:05:52.374973Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8328,7 +8328,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.530157Z",
+        "collectedAt": "2026-07-21T23:05:52.386964Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8347,7 +8347,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.541286Z",
+        "collectedAt": "2026-07-21T23:05:52.406774Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8366,7 +8366,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.552799Z",
+        "collectedAt": "2026-07-21T23:05:52.418596Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8385,7 +8385,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.563001Z",
+        "collectedAt": "2026-07-21T23:05:52.429104Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8404,7 +8404,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.573076Z",
+        "collectedAt": "2026-07-21T23:05:52.439678Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8423,7 +8423,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.584450Z",
+        "collectedAt": "2026-07-21T23:05:52.449229Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8442,7 +8442,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.607787Z",
+        "collectedAt": "2026-07-21T23:05:52.458067Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8461,7 +8461,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.622452Z",
+        "collectedAt": "2026-07-21T23:05:52.466768Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8480,7 +8480,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.633104Z",
+        "collectedAt": "2026-07-21T23:05:52.478318Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8499,7 +8499,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.643267Z",
+        "collectedAt": "2026-07-21T23:05:52.515454Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8518,7 +8518,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.655716Z",
+        "collectedAt": "2026-07-21T23:05:52.530679Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8537,7 +8537,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.670321Z",
+        "collectedAt": "2026-07-21T23:05:52.544235Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8556,7 +8556,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.681828Z",
+        "collectedAt": "2026-07-21T23:05:52.557813Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8575,7 +8575,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.693055Z",
+        "collectedAt": "2026-07-21T23:05:52.568707Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8594,7 +8594,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.704535Z",
+        "collectedAt": "2026-07-21T23:05:52.579321Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8613,7 +8613,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.725824Z",
+        "collectedAt": "2026-07-21T23:05:52.590498Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8632,7 +8632,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.739095Z",
+        "collectedAt": "2026-07-21T23:05:52.599751Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -8651,7 +8651,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.749975Z",
+        "collectedAt": "2026-07-21T23:05:52.613742Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8670,7 +8670,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.761655Z",
+        "collectedAt": "2026-07-21T23:05:52.634417Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -8689,7 +8689,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.771628Z",
+        "collectedAt": "2026-07-21T23:05:52.650590Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8708,7 +8708,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.784455Z",
+        "collectedAt": "2026-07-21T23:05:52.660128Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8727,7 +8727,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.795386Z",
+        "collectedAt": "2026-07-21T23:05:52.670316Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8746,7 +8746,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.810872Z",
+        "collectedAt": "2026-07-21T23:05:52.679841Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8765,7 +8765,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.838943Z",
+        "collectedAt": "2026-07-21T23:05:52.689861Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8784,7 +8784,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.862280Z",
+        "collectedAt": "2026-07-21T23:05:52.699025Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8803,7 +8803,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.877790Z",
+        "collectedAt": "2026-07-21T23:05:52.708801Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8822,7 +8822,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.897200Z",
+        "collectedAt": "2026-07-21T23:05:52.720446Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8841,7 +8841,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.908150Z",
+        "collectedAt": "2026-07-21T23:05:52.740623Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8860,7 +8860,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.919135Z",
+        "collectedAt": "2026-07-21T23:05:52.753756Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8879,7 +8879,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.929882Z",
+        "collectedAt": "2026-07-21T23:05:52.762640Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8898,7 +8898,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.941386Z",
+        "collectedAt": "2026-07-21T23:05:52.772088Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8917,7 +8917,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.954226Z",
+        "collectedAt": "2026-07-21T23:05:52.782055Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8936,7 +8936,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.978203Z",
+        "collectedAt": "2026-07-21T23:05:52.793311Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8955,7 +8955,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:55.992267Z",
+        "collectedAt": "2026-07-21T23:05:52.802827Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8974,7 +8974,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.003458Z",
+        "collectedAt": "2026-07-21T23:05:52.812625Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -8993,7 +8993,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.015985Z",
+        "collectedAt": "2026-07-21T23:05:52.823591Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9012,7 +9012,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.028459Z",
+        "collectedAt": "2026-07-21T23:05:52.846769Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9031,7 +9031,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.039409Z",
+        "collectedAt": "2026-07-21T23:05:52.858526Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9050,7 +9050,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.050335Z",
+        "collectedAt": "2026-07-21T23:05:52.867736Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9069,7 +9069,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.063398Z",
+        "collectedAt": "2026-07-21T23:05:52.877595Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9088,7 +9088,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.084971Z",
+        "collectedAt": "2026-07-21T23:05:52.887075Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9107,7 +9107,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.100816Z",
+        "collectedAt": "2026-07-21T23:05:52.895636Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9126,7 +9126,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.111034Z",
+        "collectedAt": "2026-07-21T23:05:52.905018Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9145,7 +9145,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.121601Z",
+        "collectedAt": "2026-07-21T23:05:52.916690Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9164,7 +9164,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.132407Z",
+        "collectedAt": "2026-07-21T23:05:52.934432Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9183,7 +9183,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.144230Z",
+        "collectedAt": "2026-07-21T23:05:52.949121Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9202,7 +9202,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.156300Z",
+        "collectedAt": "2026-07-21T23:05:52.957787Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9221,7 +9221,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.170298Z",
+        "collectedAt": "2026-07-21T23:05:52.967425Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9240,7 +9240,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.183995Z",
+        "collectedAt": "2026-07-21T23:05:52.976826Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9259,7 +9259,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.208098Z",
+        "collectedAt": "2026-07-21T23:05:52.986152Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9278,7 +9278,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.219911Z",
+        "collectedAt": "2026-07-21T23:05:52.996358Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9297,7 +9297,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.232418Z",
+        "collectedAt": "2026-07-21T23:05:53.006912Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9316,7 +9316,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.242548Z",
+        "collectedAt": "2026-07-21T23:05:53.019404Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9335,7 +9335,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.252700Z",
+        "collectedAt": "2026-07-21T23:05:53.042741Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9354,7 +9354,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.262683Z",
+        "collectedAt": "2026-07-21T23:05:53.058235Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9373,7 +9373,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.273257Z",
+        "collectedAt": "2026-07-21T23:05:53.067653Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9392,7 +9392,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.286461Z",
+        "collectedAt": "2026-07-21T23:05:53.080720Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9411,7 +9411,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.307213Z",
+        "collectedAt": "2026-07-21T23:05:53.092542Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9430,7 +9430,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.322729Z",
+        "collectedAt": "2026-07-21T23:05:53.104511Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9449,7 +9449,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.332801Z",
+        "collectedAt": "2026-07-21T23:05:53.114544Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RO"
@@ -9468,7 +9468,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.342419Z",
+        "collectedAt": "2026-07-21T23:05:53.125047Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9487,7 +9487,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.352957Z",
+        "collectedAt": "2026-07-21T23:05:53.140599Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9506,7 +9506,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.365695Z",
+        "collectedAt": "2026-07-21T23:05:53.169952Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9525,7 +9525,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.381716Z",
+        "collectedAt": "2026-07-21T23:05:53.182536Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9544,7 +9544,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.395014Z",
+        "collectedAt": "2026-07-21T23:05:53.195437Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -9563,7 +9563,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.406931Z",
+        "collectedAt": "2026-07-21T23:05:53.205858Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9582,7 +9582,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.429200Z",
+        "collectedAt": "2026-07-21T23:05:53.216583Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9601,7 +9601,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.443360Z",
+        "collectedAt": "2026-07-21T23:05:53.226952Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9620,7 +9620,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.454022Z",
+        "collectedAt": "2026-07-21T23:05:53.237371Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9639,7 +9639,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.466001Z",
+        "collectedAt": "2026-07-21T23:05:53.249566Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9658,7 +9658,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.478704Z",
+        "collectedAt": "2026-07-21T23:05:53.267087Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9677,7 +9677,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.489974Z",
+        "collectedAt": "2026-07-21T23:05:53.282140Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9696,7 +9696,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.499855Z",
+        "collectedAt": "2026-07-21T23:05:53.291850Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9715,7 +9715,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.510967Z",
+        "collectedAt": "2026-07-21T23:05:53.302588Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MS"
@@ -9734,7 +9734,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.528645Z",
+        "collectedAt": "2026-07-21T23:05:53.313663Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9753,7 +9753,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.544371Z",
+        "collectedAt": "2026-07-21T23:05:53.322504Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9772,7 +9772,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.557114Z",
+        "collectedAt": "2026-07-21T23:05:53.331995Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9791,7 +9791,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.566456Z",
+        "collectedAt": "2026-07-21T23:05:53.340841Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9810,7 +9810,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.576287Z",
+        "collectedAt": "2026-07-21T23:05:53.351074Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9829,7 +9829,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.586941Z",
+        "collectedAt": "2026-07-21T23:05:53.370021Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9848,7 +9848,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.598506Z",
+        "collectedAt": "2026-07-21T23:05:53.383762Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -9867,7 +9867,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.611274Z",
+        "collectedAt": "2026-07-21T23:05:53.393850Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9886,7 +9886,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.623366Z",
+        "collectedAt": "2026-07-21T23:05:53.403139Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9905,7 +9905,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.645527Z",
+        "collectedAt": "2026-07-21T23:05:53.412436Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -9924,7 +9924,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.660155Z",
+        "collectedAt": "2026-07-21T23:05:53.422692Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -9943,7 +9943,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.674139Z",
+        "collectedAt": "2026-07-21T23:05:53.431910Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -9962,7 +9962,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.686042Z",
+        "collectedAt": "2026-07-21T23:05:53.441634Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -9981,7 +9981,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.697903Z",
+        "collectedAt": "2026-07-21T23:05:53.453405Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -10000,7 +10000,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.709095Z",
+        "collectedAt": "2026-07-21T23:05:53.477166Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -10019,7 +10019,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.719109Z",
+        "collectedAt": "2026-07-21T23:05:53.492179Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -10038,7 +10038,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.730433Z",
+        "collectedAt": "2026-07-21T23:05:53.502188Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -10057,7 +10057,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.748409Z",
+        "collectedAt": "2026-07-21T23:05:53.513065Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10076,7 +10076,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.767073Z",
+        "collectedAt": "2026-07-21T23:05:53.522648Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10095,7 +10095,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.780146Z",
+        "collectedAt": "2026-07-21T23:05:53.532746Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10114,7 +10114,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.796778Z",
+        "collectedAt": "2026-07-21T23:05:53.541938Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10133,7 +10133,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.811178Z",
+        "collectedAt": "2026-07-21T23:05:53.553201Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10152,7 +10152,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.825875Z",
+        "collectedAt": "2026-07-21T23:05:53.564326Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10171,7 +10171,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.836470Z",
+        "collectedAt": "2026-07-21T23:05:53.585057Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10190,7 +10190,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.847422Z",
+        "collectedAt": "2026-07-21T23:05:53.594640Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10209,7 +10209,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.861730Z",
+        "collectedAt": "2026-07-21T23:05:53.603593Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10228,7 +10228,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.901697Z",
+        "collectedAt": "2026-07-21T23:05:53.614656Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10247,7 +10247,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.918235Z",
+        "collectedAt": "2026-07-21T23:05:53.626106Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10266,7 +10266,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.930982Z",
+        "collectedAt": "2026-07-21T23:05:53.637451Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10285,7 +10285,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.942374Z",
+        "collectedAt": "2026-07-21T23:05:53.648749Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10304,7 +10304,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.955008Z",
+        "collectedAt": "2026-07-21T23:05:53.663173Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10323,7 +10323,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.965662Z",
+        "collectedAt": "2026-07-21T23:05:53.687110Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10342,7 +10342,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.976046Z",
+        "collectedAt": "2026-07-21T23:05:53.703421Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10361,7 +10361,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:56.987773Z",
+        "collectedAt": "2026-07-21T23:05:53.712591Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10380,7 +10380,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.006577Z",
+        "collectedAt": "2026-07-21T23:05:53.723543Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10399,7 +10399,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.025440Z",
+        "collectedAt": "2026-07-21T23:05:53.732688Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10418,7 +10418,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.036731Z",
+        "collectedAt": "2026-07-21T23:05:53.743335Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10437,7 +10437,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.048869Z",
+        "collectedAt": "2026-07-21T23:05:53.755052Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10456,7 +10456,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.061524Z",
+        "collectedAt": "2026-07-21T23:05:53.764587Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10475,7 +10475,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.073968Z",
+        "collectedAt": "2026-07-21T23:05:53.776586Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10494,7 +10494,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.086135Z",
+        "collectedAt": "2026-07-21T23:05:53.799405Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10513,7 +10513,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.098241Z",
+        "collectedAt": "2026-07-21T23:05:53.812969Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10532,7 +10532,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.111254Z",
+        "collectedAt": "2026-07-21T23:05:53.822114Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10551,7 +10551,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.132006Z",
+        "collectedAt": "2026-07-21T23:05:53.834062Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10570,7 +10570,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.149521Z",
+        "collectedAt": "2026-07-21T23:05:53.844323Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10589,7 +10589,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.159831Z",
+        "collectedAt": "2026-07-21T23:05:53.855092Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10608,7 +10608,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.174371Z",
+        "collectedAt": "2026-07-21T23:05:53.865937Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10627,7 +10627,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.185229Z",
+        "collectedAt": "2026-07-21T23:05:53.876490Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10646,7 +10646,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.196525Z",
+        "collectedAt": "2026-07-21T23:05:53.888186Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10665,7 +10665,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.208151Z",
+        "collectedAt": "2026-07-21T23:05:53.908559Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10684,7 +10684,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.218613Z",
+        "collectedAt": "2026-07-21T23:05:53.920709Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10703,7 +10703,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.230241Z",
+        "collectedAt": "2026-07-21T23:05:53.929923Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10722,7 +10722,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.251432Z",
+        "collectedAt": "2026-07-21T23:05:53.940754Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10741,7 +10741,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.264203Z",
+        "collectedAt": "2026-07-21T23:05:53.951577Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10760,7 +10760,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.274863Z",
+        "collectedAt": "2026-07-21T23:05:53.961114Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10779,7 +10779,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.289867Z",
+        "collectedAt": "2026-07-21T23:05:53.970923Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10798,7 +10798,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.301918Z",
+        "collectedAt": "2026-07-21T23:05:53.981789Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10817,7 +10817,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.313563Z",
+        "collectedAt": "2026-07-21T23:05:54.000748Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10836,7 +10836,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.325825Z",
+        "collectedAt": "2026-07-21T23:05:54.015216Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10855,7 +10855,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.341695Z",
+        "collectedAt": "2026-07-21T23:05:54.026247Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10874,7 +10874,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.364961Z",
+        "collectedAt": "2026-07-21T23:05:54.036099Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10893,7 +10893,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.380862Z",
+        "collectedAt": "2026-07-21T23:05:54.046928Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10912,7 +10912,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.390105Z",
+        "collectedAt": "2026-07-21T23:05:54.058260Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10931,7 +10931,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.401969Z",
+        "collectedAt": "2026-07-21T23:05:54.069178Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10950,7 +10950,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.413680Z",
+        "collectedAt": "2026-07-21T23:05:54.080975Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10969,7 +10969,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.424710Z",
+        "collectedAt": "2026-07-21T23:05:54.093698Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -10988,7 +10988,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.434483Z",
+        "collectedAt": "2026-07-21T23:05:54.114356Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11007,7 +11007,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.445522Z",
+        "collectedAt": "2026-07-21T23:05:54.131147Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11026,7 +11026,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.457831Z",
+        "collectedAt": "2026-07-21T23:05:54.140343Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11045,7 +11045,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.481374Z",
+        "collectedAt": "2026-07-21T23:05:54.149532Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11064,7 +11064,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.493659Z",
+        "collectedAt": "2026-07-21T23:05:54.160661Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11083,7 +11083,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.503014Z",
+        "collectedAt": "2026-07-21T23:05:54.171551Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11102,7 +11102,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.512963Z",
+        "collectedAt": "2026-07-21T23:05:54.182697Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11121,7 +11121,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.523888Z",
+        "collectedAt": "2026-07-21T23:05:54.198054Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11140,7 +11140,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.535372Z",
+        "collectedAt": "2026-07-21T23:05:54.211072Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -11159,7 +11159,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.547123Z",
+        "collectedAt": "2026-07-21T23:05:54.232547Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -11178,7 +11178,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.561694Z",
+        "collectedAt": "2026-07-21T23:05:54.248294Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RJ"
@@ -11197,7 +11197,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.585688Z",
+        "collectedAt": "2026-07-21T23:05:54.259183Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11216,7 +11216,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.602135Z",
+        "collectedAt": "2026-07-21T23:05:54.270800Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11235,7 +11235,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.614078Z",
+        "collectedAt": "2026-07-21T23:05:54.282124Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11254,7 +11254,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.624074Z",
+        "collectedAt": "2026-07-21T23:05:54.291750Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11273,7 +11273,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.634021Z",
+        "collectedAt": "2026-07-21T23:05:54.301056Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11292,7 +11292,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.644475Z",
+        "collectedAt": "2026-07-21T23:05:54.310859Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11311,7 +11311,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.656723Z",
+        "collectedAt": "2026-07-21T23:05:54.323273Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11330,7 +11330,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.668681Z",
+        "collectedAt": "2026-07-21T23:05:54.350243Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11349,7 +11349,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.684048Z",
+        "collectedAt": "2026-07-21T23:05:54.364425Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11368,7 +11368,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.706888Z",
+        "collectedAt": "2026-07-21T23:05:54.374200Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11387,7 +11387,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.719260Z",
+        "collectedAt": "2026-07-21T23:05:54.384815Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "GO"
@@ -11406,7 +11406,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.732119Z",
+        "collectedAt": "2026-07-21T23:05:54.395978Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11425,7 +11425,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.743463Z",
+        "collectedAt": "2026-07-21T23:05:54.407525Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11444,7 +11444,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.755936Z",
+        "collectedAt": "2026-07-21T23:05:54.417731Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11463,7 +11463,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.767285Z",
+        "collectedAt": "2026-07-21T23:05:54.428063Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SP"
@@ -11482,7 +11482,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.779034Z",
+        "collectedAt": "2026-07-21T23:05:54.441691Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11501,7 +11501,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.793273Z",
+        "collectedAt": "2026-07-21T23:05:54.464276Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11520,7 +11520,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.814181Z",
+        "collectedAt": "2026-07-21T23:05:54.478392Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11539,7 +11539,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.833368Z",
+        "collectedAt": "2026-07-21T23:05:54.489389Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11558,7 +11558,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.843566Z",
+        "collectedAt": "2026-07-21T23:05:54.499654Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11577,7 +11577,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.854559Z",
+        "collectedAt": "2026-07-21T23:05:54.509132Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -11596,7 +11596,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.865688Z",
+        "collectedAt": "2026-07-21T23:05:54.519159Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MT"
@@ -11615,7 +11615,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.876752Z",
+        "collectedAt": "2026-07-21T23:05:54.529938Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PA"
@@ -11634,7 +11634,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.889515Z",
+        "collectedAt": "2026-07-21T23:05:54.541305Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11653,7 +11653,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.901425Z",
+        "collectedAt": "2026-07-21T23:05:54.560631Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11672,7 +11672,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.931937Z",
+        "collectedAt": "2026-07-21T23:05:54.582627Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "PR"
@@ -11691,7 +11691,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.953886Z",
+        "collectedAt": "2026-07-21T23:05:54.592711Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -11710,7 +11710,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.964042Z",
+        "collectedAt": "2026-07-21T23:05:54.602446Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -11729,7 +11729,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.975641Z",
+        "collectedAt": "2026-07-21T23:05:54.612419Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -11748,7 +11748,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:57.987054Z",
+        "collectedAt": "2026-07-21T23:05:54.622905Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "SC"
@@ -11767,7 +11767,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.001652Z",
+        "collectedAt": "2026-07-21T23:05:54.632157Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11786,7 +11786,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.012250Z",
+        "collectedAt": "2026-07-21T23:05:54.642643Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11805,7 +11805,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.023527Z",
+        "collectedAt": "2026-07-21T23:05:54.655142Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11824,7 +11824,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.034298Z",
+        "collectedAt": "2026-07-21T23:05:54.676494Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11843,7 +11843,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.056174Z",
+        "collectedAt": "2026-07-21T23:05:54.697309Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11862,7 +11862,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.069753Z",
+        "collectedAt": "2026-07-21T23:05:54.710711Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11881,7 +11881,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.081454Z",
+        "collectedAt": "2026-07-21T23:05:54.720581Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11900,7 +11900,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.094426Z",
+        "collectedAt": "2026-07-21T23:05:54.731355Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11919,7 +11919,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.107159Z",
+        "collectedAt": "2026-07-21T23:05:54.741428Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11938,7 +11938,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.119643Z",
+        "collectedAt": "2026-07-21T23:05:54.751956Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -11957,7 +11957,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.132908Z",
+        "collectedAt": "2026-07-21T23:05:54.762157Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -11976,7 +11976,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.148118Z",
+        "collectedAt": "2026-07-21T23:05:54.772611Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -11995,7 +11995,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.172272Z",
+        "collectedAt": "2026-07-21T23:05:54.790001Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -12014,7 +12014,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.192764Z",
+        "collectedAt": "2026-07-21T23:05:54.805391Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -12033,7 +12033,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.203321Z",
+        "collectedAt": "2026-07-21T23:05:54.816738Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -12052,7 +12052,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.214130Z",
+        "collectedAt": "2026-07-21T23:05:54.825409Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -12071,7 +12071,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.225402Z",
+        "collectedAt": "2026-07-21T23:05:54.834759Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "RS"
@@ -12090,7 +12090,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.236751Z",
+        "collectedAt": "2026-07-21T23:05:54.845025Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -12109,7 +12109,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.248551Z",
+        "collectedAt": "2026-07-21T23:05:54.855207Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -12128,7 +12128,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.261522Z",
+        "collectedAt": "2026-07-21T23:05:54.866203Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -12147,7 +12147,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.276775Z",
+        "collectedAt": "2026-07-21T23:05:54.876885Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -12166,7 +12166,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.301345Z",
+        "collectedAt": "2026-07-21T23:05:54.893871Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -12185,7 +12185,7 @@
       "scope": "FEDERAL",
       "source": {
         "agency": "ANTT",
-        "collectedAt": "2026-07-21T22:45:58.317157Z",
+        "collectedAt": "2026-07-21T23:05:54.908439Z",
         "url": "https://dados.antt.gov.br/dataset/a7e1e12d-f8e8-40cd-bc1f-57973a4a4a6d/resource/c3b30e68-8497-4985-af51-931047d1c69a/download/dados-dos-pracas-de-pedagio5_2026.csv"
       },
       "state": "MG"
@@ -14114,8 +14114,8 @@
     },
     {
       "id": "tarifas_normalizadas",
-      "message": "Importado de asset://artesp_snapshot.json em 2026-07-21T22:45:58.737169Z",
-      "plazas": 147,
+      "message": "Importado de https://raw.githubusercontent.com/luizgust79/TACFacil/main/pedagios_database.json em 2026-07-21T23:05:56.114344Z",
+      "plazas": 416,
       "status": "OK",
       "tariffs": 529
     },
