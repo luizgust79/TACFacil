@@ -1,0 +1,27 @@
+{
+  "databaseVersion": "2026.07.21.2245",
+  "downloadUrl": "https://raw.githubusercontent.com/luizgust79/TACFacil/main/pedagios_database.json",
+  "generatedAt": "2026-07-21T22:45:53.739653Z",
+  "schemaVersion": 1,
+  "statistics": {
+    "matchedTariffs": 529,
+    "states": [
+      "ES",
+      "GO",
+      "MG",
+      "MS",
+      "MT",
+      "PA",
+      "PR",
+      "RJ",
+      "RO",
+      "RS",
+      "SC",
+      "SP",
+      "TO"
+    ],
+    "totalPlazas": 416,
+    "totalTariffs": 529,
+    "unmatchedTariffs": 0
+  }
+}
